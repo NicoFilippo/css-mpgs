@@ -27,15 +27,15 @@
       "user":"#8B92A2"
    },
    "images":{  
-      "background":"https://cdn.radiant.dj/rcs/bg/2k14minecraft.jpg",
+      "background":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-background.jpg",
       "playback":null,
-      "admin":"https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-      "ambassador":"https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-      "host":"http://i.imgur.com/FY1yM2H.gif",
-      "cohost":"http://i.imgur.com/7ThU0cN.gif",
-      "manager":"http://i.imgur.com/ZLnbkda.png",
-      "bouncer":"http://s23.postimg.org/4ftm0twnr/ZLnbkda.png",
-      "rdj":"http://s17.postimg.org/fl0yaus5n/ZLnbkda.png",
+      "admin":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-admin.png",
+      "ambassador":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-ba.png",
+      "host":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-host.gif",
+      "cohost":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-cohost.gif",
+      "manager":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-manager.png",
+      "bouncer":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-bouncer.png",
+      "rdj":"https://nicofilippo.github.io/css-mpgs/emotes/-noem-dj.png",
       "subscriber":null,
       "silversubscriber":null
    },
