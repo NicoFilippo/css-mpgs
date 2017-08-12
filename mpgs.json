@@ -43,21 +43,22 @@
 
    ],
    "emotes":{  
-      "MrFilip_CZE":"http://cravatar.eu/helmavatar/MrFilip_CZE/40.png",
-      "ManuManu":"http://cravatar.eu/helmavatar/ManuManu/40.png",
-      "Friggo":"http://cravatar.eu/helmavatar/Friggo/40.png",
-      "Yomo":"http://cravatar.eu/helmavatar/Yomo/40.png",
-      "NicoFilippo":"http://cravatar.eu/helmavatar/NicoFilippo/40.png",
-      "Youtube":"https://cdn.discordapp.com/emojis/337543096289984523.png",
-      "TeamSpeak":"https://cdn.discordapp.com/emojis/337543098118701056.png",
-      "Steam":"https://cdn.discordapp.com/emojis/337543096890032138.png",
-      "Skype":"https://cdn.discordapp.com/emojis/337543096923586563.png",
-      "Minecraft":"https://cdn.discordapp.com/emojis/337543093572206592.png",
-      "Minicraft":"https://cdn.discordapp.com/emojis/337543097212731393.png",
-      "minecraft_potato":"http://i.imgur.com/QeucndR.gif",
-      "minecraft_carrot":"http://i.imgur.com/frUcnTa.gif",
-      "dealwithitdoge":"http://i.imgur.com/rHf089L.png",
-      "load":"http://i.giphy.com/3oEdv2UkwXqKFynBni.gif",
-      "NULL":"http://i.imgur.com/q1xub3p.png"
+      "MrFilip_CZE":"https://nicofilippo.github.io/css-mpgs/emotes/MrFilip_CZE.png",
+      "MrFox":"https://nicofilippo.github.io/css-mpgs/emotes/MrFox.png",
+      "ManuManu":"https://nicofilippo.github.io/css-mpgs/emotes/ManuManu.png",
+      "MinerFriggo":"https://nicofilippo.github.io/css-mpgs/emotes/MinerFriggo.png",
+      "Yomo":"https://nicofilippo.github.io/css-mpgs/emotes/Yomo.png",
+      "NicoFilippo":"https://nicofilippo.github.io/css-mpgs/emotes/NicoFilippo.png",
+      "yt":"https://nicofilippo.github.io/css-mpgs/emotes/yt.png",
+      "TeamSpeak":"https://nicofilippo.github.io/css-mpgs/emotes/TeamSpeak.png",
+      "Steam":"https://nicofilippo.github.io/css-mpgs/emotes/steam.png",
+      "Skype":"https://nicofilippo.github.io/css-mpgs/emotes/Skype.png",
+      "Creeper":"https://nicofilippo.github.io/css-mpgs/emotes/Creeper.png",
+      "Minicraft":"https://nicofilippo.github.io/css-mpgs/emotes/Minicraft.png",
+      "potato":"https://nicofilippo.github.io/css-mpgs/emotes/potato.gif",
+      "carrot":"https://nicofilippo.github.io/css-mpgs/emotes/carrot.gif",
+      "load":"https://nicofilippo.github.io/css-mpgs/emotes/load.gif",
+      "ventilator":"https://nicofilippo.github.io/css-mpgs/emotes/ventilator.gif",
+      "mystic":"https://nicofilippo.github.io/css-mpgs/emotes/mystic.gif"
    }
 }
