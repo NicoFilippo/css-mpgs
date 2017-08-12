@@ -1,4 +1,4 @@
-@import url("https://raw.githubusercontent.com/NicoFilippo/css-mpgs/master/ikony/0badges.css");
+@import url('https://raw.githubusercontent.com/NicoFilippo/css-mpgs/master/ikony/0badges.css');
 
 .icon-site-logo {
 background: url('http://i.imgur.com/oggcwwM.png') repeat scroll 0% 0% transparent;
@@ -129,7 +129,7 @@ i.icon.icon-chat-dj {
 	visibility: hidden;
 }
 #room-bar .icon-room { 
-	background: url(http://i.imgur.com/PnUlxuP.png);
+	background: url(http://i.imgur.com/CTpZeKF.png);
 
 
 /* BDGBX */
