@@ -2,7 +2,7 @@
    "room":"MPGS",
    "author":"NicoFilippo",
    "icon":"https://cdn.discordapp.com/icons/243740001433681921/bc9ed9230b6fbaa1eb1a4f8168f1908e.webp",
-   "css":"https://raw.githubusercontent.com/NicoFilippo/css-mpgs/blob/master/mpgs2.css",
+   "css":"https://raw.githubusercontent.com/NicoFilippo/css-mpgs/master/mpgs2.css",
    "rules":{  
       "allowAutorespond":true,
       "allowAutowoot":true,
