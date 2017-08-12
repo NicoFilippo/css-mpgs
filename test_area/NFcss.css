@@ -1,5 +1,24 @@
 @import url("https://raw.githubusercontent.com/NicoFilippo/css-mpgs/blob/master/ikony/0badges.css");
 
+/* Custom Badges */
+
+/* General */
+#user-rollover .info .badge-box, 
+#chat-messages .badge-box
+{
+	background:          none !important;
+	background-size:     cover !important;
+	background-repeat:   no-repeat !important;
+	background-position: center center !important;
+}
+
+/* NicoFilippo */
+#user-rollover.id-6566712 .badge-box > i.bdg,
+.id-6566712 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/piwbbIe.png");
+}
+
 .icon-site-logo {
 background: url('http://i.imgur.com/oggcwwM.png') repeat scroll 0% 0% transparent;
 background-position: -5px 0px;
@@ -346,23 +365,4 @@ transition: 100ms linear 50ms;
 padding-left: 3px;
 text-decoration: none;
 transition: 100ms linear 50ms;
-}
-
-/* Custom Badges */
-
-/* General */
-#user-rollover .info .badge-box, 
-#chat-messages .badge-box
-{
-	background:          none !important;
-	background-size:     cover !important;
-	background-repeat:   no-repeat !important;
-	background-position: center center !important;
-}
-
-/* NicoFilippo */
-#user-rollover.id-6566712 .badge-box > i.bdg,
-.id-6566712 > .badge-box > i.bdg
-{
-    background-image:    url("http://i.imgur.com/piwbbIe.png");
 }
